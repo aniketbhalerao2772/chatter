@@ -69,7 +69,7 @@ class LoginPage extends StatelessWidget {
                 onTap: () {
                   Get.to(() => SignUpPage());
                 },
-                child: Text("Don't have account try SignUp"),
+                child: Text("Don't have account try SignUp??"),
               ),
 
               SizedBox(height: size.height * 0.10),
